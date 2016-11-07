@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Procedural Landmass.CSharp", "Procedural Landmass.CSharp.csproj", "{74E86A6B-4DB8-C6CF-6C80-58B4A7A9C2AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Procedural Landmass.CSharp.Editor", "Procedural Landmass.CSharp.Editor.csproj", "{7AEADB13-CE17-7CEE-7400-653A675A2CAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74E86A6B-4DB8-C6CF-6C80-58B4A7A9C2AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E86A6B-4DB8-C6CF-6C80-58B4A7A9C2AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E86A6B-4DB8-C6CF-6C80-58B4A7A9C2AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E86A6B-4DB8-C6CF-6C80-58B4A7A9C2AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AEADB13-CE17-7CEE-7400-653A675A2CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AEADB13-CE17-7CEE-7400-653A675A2CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AEADB13-CE17-7CEE-7400-653A675A2CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AEADB13-CE17-7CEE-7400-653A675A2CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
